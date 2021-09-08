@@ -1,5 +1,5 @@
 // JAVASCRIPT TUTORIAL
-
+//https://teacher-program-sfz.github.io/tutorial/html.html
 // ARTEN VON VARIABLEN:
 var var1 = "hello world"; // änderbar Strings + numbers
 let var2 = 0; // änderbar Strings + numbers
