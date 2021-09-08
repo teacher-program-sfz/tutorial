@@ -112,8 +112,11 @@ var newjsonstringifyed = '{'
 var newjson = JSON.parse(newjsonstringifyed);// macht newjsonstringifyed zu einem json
 console.log(newjson)
 
+// FUNCTIONEN
 
-
+function tutorial() {
+    alert("du hast es geschafft!!!!!!!!!!")
+}
 
 
 
